@@ -1,2 +1,2 @@
-# ATOM-JAVA
+# ATOM
 Practice with Atom and Java
